@@ -75,7 +75,7 @@
 
 ### 📁 Projects
 <p align="center">
-    Check out my repositories on [GitHub](https://github.com/prakashdeep2902).
+    Check out my repositories on https://github.com/prakashdeep2902?tab=repositories.
     I specialize in backend development, REST APIs, and scalable architectures.
 </p>
 
