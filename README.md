@@ -65,7 +65,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashdeep2902&theme=radical"
         alt="GitHub Streak Stats" width="400" height="300" />
 </div>
-<div align="center" style="margin-top: -20px;">
+<div align="center" style="margin-top: -50px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashdeep2902&layout=compact&theme=radical"
         alt="Top Languages" width="400" height="300" />
 </div>
