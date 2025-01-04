@@ -59,17 +59,17 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=prakashdeep2902&show_icons=true&theme=radical"
-        alt="GitHub Stats"  width="200" height="200"  />
+        alt="GitHub Stats"  width="400" height="300"  />
 </p>
-<p align="center">
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashdeep2902&theme=radical"
-        alt="GitHub Streak Stats"  width="200" height="200"  />
+        alt="GitHub Streak Stats" width="400" height="300" />
 </p>
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashdeep2902&layout=compact&theme=radical"
-        alt="Top Languages"  width="200" height="200"  />
+        alt="Top Languages"  width="400" height="300"  />
 </p>
 
 ---
