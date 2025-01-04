@@ -14,7 +14,7 @@
   Golang, TypeScript, Advanced Node.js  
 
 - 👨‍💻 **My Projects**:  
-  Check out my repositories on [GitHub](https://github.com/prakashdeep2902)
+  Check out my repositories on [GitHub](https://github.com/prakashdeep2902?tab=repositories)
 
 - 💬 **Ask Me About**:  
   JavaScript, Node.js, Golang, TypeScript  
