@@ -14,7 +14,9 @@
     🌱 Currently Learning: Golang, TypeScript &nbsp;|&nbsp;
     💬 Ask Me About: JavaScript, Node.js, Golang, TypeScript
 </p>
-
+<p align="left">
+    Greetings! I'm Prakash Sharma. Proficient in Node.js, JavaScript, and back-end development, I'm currently working at <strong>NoBroker</strong> as a Backend Developer.
+</p>
 <p align="left">
     📫 Reach Me: prakashdeep2902@gmail.com<br>
     📄 Resume: https://drive.google.com/file/d/11vGP0i6WVmWt87pU8mxCaAc9qHBveTaj/view?usp=sharing<br>
