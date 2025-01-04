@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-    📫 Reach Me: prakashdeep2902@gmail.com <br>
+    📫 Reach Me: prakashdeep2902@gmail.com<br>
     📄 Resume: https://drive.google.com/file/d/11vGP0i6WVmWt87pU8mxCaAc9qHBveTaj/view?usp=sharing<br>
     ⚡ Fun Fact: I love solving problems and building innovative solutions!
 </p>
