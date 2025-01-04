@@ -11,8 +11,9 @@
 <p align="center">
   🔭 Currently Working On: Node.js, Golang, TypeScript &nbsp;|&nbsp;  
   🌱  Currently Learning: Golang, TypeScript &nbsp;|&nbsp;  
-  💬 Ask Me About: JavaScript, Node.js, Golang, TypeScript &nbsp;|&nbsp;  
-  📫  Reach Me:(prakashdeep2902@gmail.com)
+  💬 Ask Me About: JavaScript, Node.js, Golang, TypeScript 
+      &nbsp;|&nbsp; 
+  📫  Reach Me:(prakashdeep2902@gmail.com)  &nbsp;|&nbsp; 
   📄  Resume: (https://drive.google.com/file/d/11vGP0i6WVmWt87pU8mxCaAc9qHBveTaj/view?usp=sharing) &nbsp;|&nbsp; 
   ⚡ Fun Fact: I love solving problems and building innovative solutions!
 </p>
