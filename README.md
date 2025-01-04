@@ -8,23 +8,14 @@
 ---
 
 ### 🌟 About Me
-- 🔭 **Currently Working On**:  
-  Node.js, Golang, TypeScript  
-
-- 🌱 **Currently Learning**:  
-  Golang, TypeScript, Advanced Backend Concepts  
-
-- 💬 **Ask Me About**:  
-  JavaScript, Node.js, Golang, TypeScript  
-
-- 📫 **How to Reach Me**:  
-  [prakashdeep2902@gmail.com](mailto:prakashdeep2902@gmail.com)  
-
-- 📄 **Check My Resume**:  
-  [View My Resume](https://drive.google.com/file/d/11vGP0i6WVmWt87pU8mxCaAc9qHBveTaj/view?usp=sharing)  
-
-- ⚡ **Fun Fact**:  
-  I love solving problems and learning new technologies. Building innovative solutions makes me happy!  
+<p align="center">
+  🔭 **Currently Working On**: Node.js, Golang, TypeScript &nbsp;|&nbsp;  
+  🌱 **Currently Learning**: Golang, TypeScript &nbsp;|&nbsp;  
+  💬 **Ask Me About**: JavaScript, Node.js, Golang, TypeScript &nbsp;|&nbsp;  
+  📫 **Reach Me**: [prakashdeep2902@gmail.com](mailto:prakashdeep2902@gmail.com) &nbsp;|&nbsp;  
+  📄 **Resume**: [View Here](https://drive.google.com/file/d/11vGP0i6WVmWt87pU8mxCaAc9qHBveTaj/view?usp=sharing) &nbsp;|&nbsp;  
+  ⚡ **Fun Fact**: I love solving problems and building innovative solutions!
+</p>
 
 ---
 
@@ -67,8 +58,10 @@
 ---
 
 ### 📁 Projects
-Check out some of my repositories on [GitHub](https://github.com/prakashdeep2902).  
-I build backend solutions, REST APIs, and work on scalable, secure architectures.
+<p align="center">
+  Check out my repositories on [GitHub](https://github.com/prakashdeep2902).  
+  I specialize in backend development, REST APIs, and scalable architectures.
+</p>
 
 ---
 
