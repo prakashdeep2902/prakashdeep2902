@@ -14,7 +14,7 @@
   💬 Ask Me About: JavaScript, Node.js, Golang, TypeScript  
 </p>
 
-<p align="left">
+<p align="center">
   📫 Reach Me:(prakashdeep2902@gmail.com) <br>
   📄 Resume:(https://drive.google.com/file/d/11vGP0i6WVmWt87pU8mxCaAc9qHBveTaj/view?usp=sharing) <br>
   ⚡ Fun Fact: I love solving problems and building innovative solutions!
