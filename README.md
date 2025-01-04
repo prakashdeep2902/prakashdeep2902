@@ -59,18 +59,17 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=prakashdeep2902&show_icons=true&theme=radical"
-        alt="GitHub Stats"  />
-</p>
-<p align="center">
+        alt="GitHub Stats" width="400" height="300" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashdeep2902&theme=radical"
         alt="GitHub Streak Stats" width="400" height="300" />
-</p>
-<p align="center">
+</div>
+<div align="center" style="margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashdeep2902&layout=compact&theme=radical"
-        alt="Top Languages"  width="400" height="300"  />
-</p>
+        alt="Top Languages" width="400" height="300" />
+</div>
+
 
 ---
 
