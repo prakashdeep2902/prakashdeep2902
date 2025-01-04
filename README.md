@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prakash Deep Sharma</h1>
 <h3 align="center">🚀 Backend Developer | Node.js | JavaScript | TypeScript | Golang</h3>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=prakashdeep2902&label=Profile%20Views&color=0e75b6&style=flat"
-        alt="Profile Views" />
+### 🖋️ Bio:
+<p align="left">
+    Greetings! I'm Prakash Sharma. Proficient in Node.js, JavaScript, and back-end development, I'm currently working at <strong>NoBroker</strong> as a Backend Developer.
 </p>
 
 ---
@@ -13,9 +13,6 @@
     🔭 Currently Working On: Node.js, Golang, TypeScript &nbsp;|&nbsp;
     🌱 Currently Learning: Golang, TypeScript &nbsp;|&nbsp;
     💬 Ask Me About: JavaScript, Node.js, Golang, TypeScript
-</p>
-<p align="left">
-    Greetings! I'm Prakash Sharma. Proficient in Node.js, JavaScript, and back-end development, I'm currently working at <strong>NoBroker</strong> as a Backend Developer.
 </p>
 <p align="left">
     📫 Reach Me: prakashdeep2902@gmail.com<br>
